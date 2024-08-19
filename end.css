@@ -1,0 +1,9 @@
+.hud-prefix{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.hud-main-text{
+    margin-bottom: 4%;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+[ 
+{
+    "question": "In Which tag we will link javascript file",
+    "choice1": "link Tag",
+    "choice2": "A Tag",
+    "choice3": "Script Tag",
+    "choice4": "Img Tag",
+    "answer": 3
+},
+{
+    "question": "Javascript is used for?",
+    "choice1": "Client side validation",
+    "choice2": "Server side validation",
+    "choice3": "Static pages",
+    "choice4": "Web design",
+    "answer": 1
+},
+{
+    "question": "How to save a Javascript file",
+    "choice1": ".jsx",
+    "choice2": ".js",
+    "choice3": ".xlss",
+    "choice4": ".jpg",
+    "answer": 2
+}
+]
